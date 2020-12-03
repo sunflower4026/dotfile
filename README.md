@@ -17,6 +17,7 @@
 
 ## Optional
 * [`scrcpy`](https://github.com/Genymobile/scrcpy)
+* Spotify with [`Spicetify`](https://github.com/khanhas/Spicetify) , [`Theme`](https://github.com/morpheusthewhite/spicetify-themes/tree/master/Dribbblish) with Nord-Light color scheme
 
 ## Fonts:
   * `Iosevka` 
