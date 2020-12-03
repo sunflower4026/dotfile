@@ -25,7 +25,7 @@
   * `~/Pictures/wallpapers`
 	
 ## Wallpapers 
-[Here](https://i.imgur.com/0TUWjyp.jpg)
+[Here](https://i.imgur.com/0TUWjyp.jpg) ,The artist : https://www.instagram.com/seerlight/?hl=en
 ## Color Scheme:
 ![screenshot](https://github.com/aryadotid21/dotfile/blob/main/Pictures/ss/colorscheme.png)
 * You can get it from [here](https://store.kde.org/p/1329371/) or [here](https://github.com/arcticicestudio/nord)
